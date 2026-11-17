@@ -25,7 +25,7 @@ repositories:
 
 website: "https://podman-desktop.io/"
 
-artwork: "https://landscape.cncf.io/logos/podman-desktop.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/podman-desktop"
 
 adopters:
   path: "https://github.com/podman-desktop/podman-desktop/blob/main/ADOPTERS.md"
